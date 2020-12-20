@@ -3,7 +3,7 @@
 Trabalho de Construção de Algorítimos. O objetivo foi criar um simulador do jogo Genius em Visualg 3 e deve cumprir os seguintes requisitos mínimos: (1) Sequência aumentando de 2 em 2 até o jogador errar ou consiga ultrapassar 10; (2) Acumular pontuação para cada sequência correta; (3) Mostrar resultado final (pontuação, derrota/vitória)ao fim do jogo.
 
 <hr>
-<h2>Funções Adicionais pensadas e criadas por mim:</h2>
+<h2>Funções adicionais pensadas e criadas por mim:</h2>
 <ul>
 	<li>
 		<b>Controle de menus</b> - <i>Navegue facilmente entre os menus do jogo.</i>
