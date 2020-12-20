@@ -1,18 +1,9 @@
 <h1>Simulador de Genius</h1>
 
-Descrição do trabalho, por Eugênio Silva:
-"O Genius foi um jogo bastante popular nos anos 80 que foi produzido pela famosa fábrica de brinquedos Estrela. Trata-se de um jogo de memorização em que há quatro botões de cores diferentes que se acendem e emitem um som em uma sequência aleatória. O objetivo do jogo é que o jogador memorize a sequência de cores acesas e, em seguida, reproduza corretamente essa sequência apertando os botões correspondentes às cores que se acenderam. Inicialmente as sequências são mais curtas e vão se tornando cada vez mais longas à medida que o jogador obtém sucesso. O desafio consiste em conseguir memorizar a sequência mais longa possível.
+Trabalho de Construção de Algorítimos. O objetivo foi criar um simulador do jogo Genius em Visualg 3 e deve cumprir os seguintes requisitos mínimos: (1) Sequência aumentando de 2 em 2 até o jogador errar ou consiga ultrapassar 10; (2) Acumular pontuação para cada sequência correta; (3) Mostrar resultado final (pontuação, derrota/vitória)ao fim do jogo.
 
-Conhecendo as regras do jogo e os princípios de construção de algoritmos vistos em sala de aula, construa um algoritmo em Visualg 3 que simule o Genius. Seu algoritmo deve cumprir com os seguintes requisitos mínimos:
-<ul>
-	<li>a sequência deve iniciar com comprimento dois e aumentar de tamanho de dois em dois até que o jogador cometa um erro (derrota), ou reproduza corretamente uma sequência de comprimento 10 (vitória);</li>
-	<li>para cada sequência reproduzida corretamente deve ser acumulada uma pontuação correspondente ao comprimento da sequência;</li>
-	<li>ao finalizar o jogo, deve ser exibida a pontuação obtida e também uma mensagem indicando se o resultado foi derrota ou vitória.</li>
-</ul>
-Sinta-se livre para acrescentar outras funcionalidades ao jogo para torná-lo mais
-interessante e amigável ao usuário."<br><br>
 <hr>
-<h2>Funções Adicionais</h2>
+<h2>Funções Adicionais pensadas e criadas por mim:</h2>
 <ul>
 	<li>
 		<b>Controle de menus</b> - <i>Navegue facilmente entre os menus do jogo.</i>
